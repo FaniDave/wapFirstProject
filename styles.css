@@ -1,0 +1,22 @@
+body {
+    background-color:azure;
+}
+#profile-pic {
+     border-radius: 5%;
+     width: 25%;
+     height: 50%;
+}
+
+figcaption {
+    font-size: 2.5vw;
+    font-family: fantasy;
+}
+
+ul {
+    margin-left: 1vw;
+}
+
+#html-checker-img {
+    width: 5vw;
+    margin-left: 2.3vw;
+}
